@@ -1,0 +1,10 @@
+{
+  "name": "job_vacancy",
+  "connector": "mongodb",
+  "url": "",
+  "host": "",
+  "port": 27017,
+  "user": "",
+  "password": "",
+  "database": "job_vacancy"
+}
