@@ -60,7 +60,7 @@
     "@types/nodemailer-direct-transport": "^1.0.31",
     "@types/nodemailer-smtp-transport": "^2.7.4",
     "@types/passport-http-bearer": "^1.0.33",
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "date-and-time": "^0.6.3",
     "generate-password": "^1.4.1",
     "googleapis": "^37.2.0",
