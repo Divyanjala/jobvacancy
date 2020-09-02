@@ -63,7 +63,7 @@
     "bcrypt": "^3.0.4",
     "date-and-time": "^0.6.3",
     "generate-password": "^1.4.1",
-    "googleapis": "^37.2.0",
+    "googleapis": "^39.1.0",
     "http-errors": "^1.7.2",
     "jsonwebtoken": "^8.5.0",
     "loopback-connector-mongodb": "^4.0.0",
